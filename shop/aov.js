@@ -1,8 +1,8 @@
 const list_aov = (prefix) => {
-return `*ZEEONE OFC さ*
+return `*NETSH BOT*
 			
 PROSES	1-60Mnt Max 1X24 Jam		
-OPEN	08.00-21.00		
+[TUTUP]		
 FORMAT	ID		
 			
 VOUCHER AOV
@@ -14,13 +14,12 @@ VOUCHER AOV
 230VC   Rp 50,000.00		
 470VC   Rp 100,000.00		
 950VC	Rp 195,000.00		
-1.430VC 	Rp 290,000.00		
+1.430VC Rp 290,000.00		
 2.390VC	 Rp 485,000.00		
 4.800VC	 Rp 970,000.00		
 24.050VC   Rp 4.845,000.00		
 48.200VC   Rp 9.685,000.00		
 
-Untuk pay / pembayan silahkan ketik ${prefix}pay
 `
 	}
 
